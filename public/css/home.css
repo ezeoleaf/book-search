@@ -1,0 +1,32 @@
+.app {
+    padding-top: 75px;
+}
+
+.books {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.thumbnail {
+    height: 100%;
+}
+
+.colBook {
+    margin-bottom: 10px;
+}
+
+#paginationValue {
+    margin-top: 7px !important;
+}
+
+.inlineButtonSearch {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    height: 33.5px !important;
+}
